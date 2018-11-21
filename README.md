@@ -1,3 +1,6 @@
+#1 npm install create-react-app
+#2 npm install react-scripts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
